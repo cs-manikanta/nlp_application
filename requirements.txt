@@ -10,9 +10,7 @@ clean-text
 deep-translator
 vaderSentiment
 numpy
-pickle5
 tensorflow
-re
 textblob
 spacy
 sumy
