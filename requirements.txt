@@ -13,7 +13,7 @@ googletrans
 transformers
 python-dotenv
 SpeechRecognition
-PyAudio
+#PyAudio
 gTTs
 keras-preprocessing
 scikit-learn
