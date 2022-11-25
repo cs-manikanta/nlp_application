@@ -49,3 +49,4 @@ with speech_recognition.Microphone() as source2:
             st.write("Did you say :", textt)
         except:
             st.write("can you speak again?")
+
